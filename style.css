@@ -1,0 +1,37 @@
+body {
+    background-color: #E5E5E5;
+
+}
+    
+
+.content {
+    
+    width: 820px;
+    height: 600px;
+    margin: auto;
+    background-color: #58296D;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 120px;
+    text-align: center;
+  
+
+    
+}
+    
+
+div.text {
+    
+    background-color: #F4F4ED;
+    padding: 30px;
+    height: 60px;
+    width: 580px;
+    margin-left: 90px;
+    margin-right: 90px;
+
+    
+    
+ }
+ .p2 {
+     height: 30px;
+ }
